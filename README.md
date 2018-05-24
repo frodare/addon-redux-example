@@ -1,4 +1,6 @@
-# Redux TodoMVC Example
+# TodoMVC Example Using Redux Addon
+
+Forked from: [Redux Example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 

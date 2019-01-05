@@ -3,25 +3,29 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "addon-redux": "^0.1.1",
-    "react-scripts": "^1.1.4",
-    "react-test-renderer": "^16.3.1",
-    "@storybook/react": "^3.4.5",
-    "@storybook/addon-actions": "^3.4.5",
-    "@storybook/addon-links": "^3.4.5",
-    "@storybook/addons": "^3.4.5",
+    "@storybook/addon-actions": "^4.1.4",
+    "@storybook/addon-links": "^4.1.4",
+    "@storybook/addons": "^4.1.4",
+    "@storybook/react": "^4.1.4",
+    "addon-redux": "^0.1.4",
     "babel-core": "^6.26.3",
-    "babel-runtime": "^6.26.0"
+    "babel-loader": "^8.0.5",
+    "babel-runtime": "^6.26.0",
+    "css-loader": "^2.1.0",
+    "react-scripts": "^1.1.5",
+    "react-test-renderer": "^16.7.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.3"
   },
   "dependencies": {
-    "classnames": "^2.2.5",
-    "prop-types": "^15.6.1",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1",
-    "react-redux": "^5.0.7",
+    "classnames": "^2.2.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^5.1.1",
     "redux": "^3.5.2",
     "reselect": "^3.0.1",
-    "todomvc-app-css": "^2.1.1"
+    "todomvc-app-css": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",

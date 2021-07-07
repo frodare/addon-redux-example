@@ -5,7 +5,7 @@ import { Provider } from 'react-redux'
 import App from './components/App'
 import reducer from './reducers'
 import 'todomvc-app-css/index.css'
-import withReduxEnhancer from 'addon-redux/enhancer'
+import { enhancer as withReduxEnhancer } from 'addon-redux'
 
 export const store = createStore(reducer, {}, withReduxEnhancer)
 

@@ -4247,10 +4247,10 @@ acorn@^7.1.0, acorn@^7.1.1, acorn@^7.4.0, acorn@^7.4.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
   integrity sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==
 
-addon-redux@2.0.0-6:
-  version "2.0.0-6"
-  resolved "https://registry.yarnpkg.com/addon-redux/-/addon-redux-2.0.0-6.tgz#21ae4dab86c2908e9bcddd65ec18a40488ab0e05"
-  integrity sha512-UFI2QvlAKfa27UpG7XDOZ0zWupbQZ8tpSj586i729/HT/v2kRSPmxMNxj7ZanqqUzToV93AnIqRstBtT+8EQhw==
+addon-redux@2.0.0-7:
+  version "2.0.0-7"
+  resolved "https://registry.yarnpkg.com/addon-redux/-/addon-redux-2.0.0-7.tgz#3739f6e40f2a248e4a35fb4ad0c054f06fc5e758"
+  integrity sha512-6iAacvYCq7o0BxqfO13i72evlZ6I6Oq1F1uevNSanJlr1qmtckoGeQbP012c3iAsz3L3zBa2WXJUZqSCbFofug==
   dependencies:
     jsondiffpatch "^0.4.1"
     jsoneditor "^9.5.0"
